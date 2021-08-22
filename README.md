@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Simrita
 - 👀 I’m interested in Python...
-- 🌱 I’m currently learning Information Technology...
+- 💻 Learning DBMS and Data Structure
+- 🌱 I’m currently pursuing BTech in Information Technology...
+- 
 
 
 <!---
